@@ -5,3 +5,7 @@ Central nervous system (CNS) diseases have long had significant unmet clinical n
 With the rise of AI for science, AI can screen for drugs with potential therapeutic effects in large-scale compound libraries, and predict the pharmacological activity, toxicity, and pharmacokinetic properties of drugs based on computer simulation methods. In this way, AI can screen out the most promising drug candidates and optimize their chemical structures to improve safety and efficacy.
 
 In this competition, a set of molecular information data will be provided, and participants need to use AI methods to detect whether the molecules can be used as CNS drugs, achieving CNS drug screening and research and development work with the help of AI.
+https://nb.bohrium.dp.tech/competitions/detail/9169114995?tab=introduce
+
+### Machine learning and Attention based GNN models
+A variety of classic machine learning models and attention-based graph neural networks (https://github.com/OpenDrugAI/AttentiveFP), specifically the AttentiveFP model from OpenDrugAI, were employed to uncover hidden patterns within a training dataset for classifying test data. It was observed that as the feature dimensionality increased, traditional machine learning models struggled, achieving only about 50% accuracy. In contrast, the AttentiveFP model not only achieved a higher accuracy of approximately 88%, but also provided significant insights into molecular interpretability.
